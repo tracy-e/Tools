@@ -2,3 +2,6 @@
 
 
 ![RegexKitTool](https://raw.github.com/tracy-e/Tools/master/RegexKitTool/RegexKit.tiff)
+
+
+[test](alipay://launch)
