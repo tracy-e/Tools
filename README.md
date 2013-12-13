@@ -5,3 +5,5 @@
 
 
 [test](alipay://launch)
+
+[test](http://m.taobao.com)
